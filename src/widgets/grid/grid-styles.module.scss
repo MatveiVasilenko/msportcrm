@@ -1,0 +1,22 @@
+.gridWrapper {
+    width: 100%;
+}
+.gridHead {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 0;
+}
+.gridHeadItem {
+    text-align: center;
+    width: 100%;
+}
+.gridRow {
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 0;
+    border-bottom: 1px solid #ccc;
+}
+.gridRowItem {
+    width: 100%;
+    text-align: center;
+}
